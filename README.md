@@ -27,7 +27,7 @@ This project demonstrates basic network traffic analysis using Wireshark.
 ## Screenshots
 
 ### Packet Capture
-packet capture.png
+![Packet Capture](packet capture.png)
 
 ### Capture Overview
 ![Capture Overview](capture overview.png)
@@ -39,13 +39,13 @@ packet capture.png
 ![HTTP Filter](applying http filter.png)
 
 ### TCP & UDP Analysis
-![TCP UDP Analysis](TCP UDP analysis.png)
+![TCP & UDP Analysis](TCP UDP analysis.png)
 
 ### Login on Unsecure Website
-![Login](login on unsecure website.png)
+![Login on Unsecure Website](login on unsecure website.png)
 
 ### Credential Analysis
-![Credential Analysis](credential-analysis.png)
+![Credential Analysis](credential analysis.png)
 
 ### Coloring Rules
 ![Coloring Rules](coloring rules.png)
