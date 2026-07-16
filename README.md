@@ -26,6 +26,8 @@ This project demonstrates basic network traffic analysis using Wireshark.
 
 ## Screenshots
 
+## Screenshots
+
 ### Packet Capture
 ![Packet Capture](packet capture.png)
 
