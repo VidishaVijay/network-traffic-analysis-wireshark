@@ -12,11 +12,11 @@ This project demonstrates basic network traffic analysis using Wireshark.
 ## Tools
 - Wireshark
 
-## What I Learned
-- Packet capture techniques
-- Protocol analysis
-- Filtering traffic
-- Basic network monitoring
+## Key Observations
+- Captured live network packets from local network activity.
+- Used protocol filters to distinguish TCP, UDP, and HTTP traffic.
+- Observed how unencrypted HTTP traffic can expose transmitted information.
+- Explored Wireshark statistics and protocol hierarchy for traffic analysis.
 
 ## Sample Filters
 - tcp
@@ -53,3 +53,6 @@ This project demonstrates basic network traffic analysis using Wireshark.
 
 ### Coloring Rules
 ![Coloring Rules](coloring-rules.png)
+
+## Conclusion
+This project strengthened my understanding of packet capture, protocol analysis, and network monitoring using Wireshark. It provided practical exposure to inspecting network traffic and reinforced fundamental cybersecurity concepts.
